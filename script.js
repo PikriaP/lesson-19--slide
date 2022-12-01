@@ -25,6 +25,12 @@ let data = [
       "https://cdn.theatlantic.com/thumbor/2EcYt4eTZV6X-TfW6Zos3CkuT9Q=/1500x1025/media/img/photo/2022/10/fall-air-images-season/a03_AP22284759812052/original.jpg",
     title: "slider title 4",
   },
+  {
+    id: 1,
+    imageUrl:
+      "https://images.radio.com/aiu-media/GettyImages1259141694-29f8600b-8cec-4a87-9238-a6ea3203fd04.jpg?width=800",
+    title: "slider title 1",
+  },
 ];
 
 let arrowLeft = document.getElementById("arrow-left");
